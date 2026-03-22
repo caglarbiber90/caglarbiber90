@@ -7,7 +7,7 @@ Architect turning architectural workflows into AI-powered software.
 **[ArchitectsHub](https://github.com/caglarbiber90/ArchitectsHub)** — Multi-tenant SaaS for architecture firms. AI-powered document analysis (RAG), image generation with 6 models (Imagen, Gemini), HOAI fee calculation, and automated report generation.
 `Python` `FastAPI` `TypeScript` `Next.js 14` `PostgreSQL` `Google Cloud AI`
 
-**[AtelierSayin](https://github.com/caglarbiber90/ateliersayin)** — E-commerce platform I built to sell my father's handcrafted silver filigree jewelry online. AI-generated product images and descriptions (Gemini), multi-currency payments (EUR/TRY), marketplace sync with Shopier & Etsy, and a 3-language storefront.
+**[AtelierSayin](https://github.com/caglarbiber90/ateliersayin)** — E-commerce platform I built to sell my father's handcrafted silver filigree jewelry online ([ateliersayin.com](https://www.ateliersayin.com)). AI-generated product images and descriptions (Gemini), multi-currency payments (EUR/TRY), marketplace sync with Shopier & Etsy, and a 3-language storefront.
 `TypeScript` `Next.js 16` `Supabase` `Google Gemini` `Tailwind CSS` `iyzico` `Shopier`
 
 **[Newbee](https://newbee.app.link/install)** — Community platform for immigrants and expats with 3,000+ users ([iOS/Android](https://newbee.app.link/install) · [Web](https://app.newbeeapp.com)). Events, communities, Q&A, expert directory, and direct messaging — plus a separate AI marketing hub for generating video and image ad creatives with Gemini, Veo, and Imagen.
