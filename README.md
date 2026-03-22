@@ -10,7 +10,7 @@ Architect turning architectural workflows into AI-powered software.
 **[AtelierSayin](https://github.com/caglarbiber90/ateliersayin)** — E-commerce platform I built to sell my father's handcrafted silver filigree jewelry online. AI-generated product images and descriptions (Gemini), multi-currency payments (EUR/TRY), marketplace sync with Shopier & Etsy, and a 3-language storefront.
 `TypeScript` `Next.js 16` `Supabase` `Google Gemini` `Tailwind CSS` `iyzico` `Shopier`
 
-**[Newbee](https://app.newbeeapp.com)** — Mobile-first platform (iOS/Android/Web) with AI-powered marketing tools, admin dashboard, and Shopier payment integration.
+**[Newbee](https://newbee.app.link/install)** — Mobile-first platform ([iOS/Android](https://newbee.app.link/install) · [Web](https://app.newbeeapp.com)) with AI-powered marketing tools, admin dashboard, and Shopier payment integration.
 `React` `Vite` `Capacitor` `Supabase` `Next.js 16` `Firebase`
 
 **[Portfolio](https://github.com/caglarbiber90/portfolio)** — Architecture portfolio generator. Converts HTML/CSS templates into print-ready A3 spread PDFs using Puppeteer, with tools for image optimization, PDF merging, and plan conversion.
