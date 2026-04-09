@@ -4,6 +4,9 @@ Architect turning architectural workflows into AI-powered software.
 
 #### Projects
 
+**[Schwarzplan](https://github.com/caglarbiber90/Schwarzplan)** — Desktop app for generating architectural figure-ground plans from OpenStreetMap data. Interactive Leaflet map, 6 toggleable layers, vector export (SVG/PDF/DXF), scale-accurate output with north arrow and title block, Overpass API with 3 mirror servers and query cache.
+`TypeScript` `React` `Electron` `Leaflet` `PDFKit` `Overpass API`
+
 **[ArchitectsHub](https://github.com/caglarbiber90/ArchitectsHub)** — Multi-tenant SaaS for architecture firms. AI-powered document analysis (RAG), image generation with 6 models (Imagen, Gemini), HOAI fee calculation, and automated report generation.
 `Python` `FastAPI` `TypeScript` `Next.js 14` `PostgreSQL` `Google Cloud AI`
 
